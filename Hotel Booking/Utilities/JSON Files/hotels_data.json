@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "user_name": "Alex Norman",
+            "user_photo": "user_1",
+            "user_address": "CA, United States.",
+            "hotel_name": "Brunel's SS Great Britain",
+            "hotel_desc": "Great Western Dockyard, Gas Ferry Rd, Bristol BS1 6TY",
+            "hotel_date": "25 Jan - 27 Jan",
+            "hotel_rent": "$650/Night",
+            "is_official": true,
+            "hotel_photos": ["hotel_1", "hotel_2", "hotel_3"]
+        },
+        {
+            "id": "2",
+            "user_name": "Michealy Dam",
+            "user_photo": "user_2",
+            "user_address": "CA, United States.",
+            "hotel_name": "Brunel's SS Great Britain",
+            "hotel_desc": "Great Western Dockyard, Gas Ferry Rd, Bristol BS1 6TY",
+            "hotel_date": "25 Jan - 27 Jan",
+            "hotel_rent": "$750/Night",
+            "is_official": true,
+            "hotel_photos": ["hotel_2", "hotel_1", "hotel_3"]
+        },
+        {
+            "id": "3",
+            "user_name": "Alex Norman",
+            "user_photo": "user_1",
+            "user_address": "CA, United States.",
+            "hotel_name": "Brunel's SS Great Britain",
+            "hotel_desc": "Great Western Dockyard, Gas Ferry Rd, Bristol BS1 6TY",
+            "hotel_date": "25 Jan - 27 Jan",
+            "hotel_rent": "$600/Night",
+            "is_official": true,
+            "hotel_photos": ["hotel_3", "hotel_2", "hotel_1"]
+        },
+        {
+            "id": "4",
+            "user_name": "Michealy Dam",
+            "user_photo": "user_2",
+            "user_address": "CA, United States.",
+            "hotel_name": "Brunel's SS Great Britain",
+            "hotel_desc": "Great Western Dockyard, Gas Ferry Rd, Bristol BS1 6TY",
+            "hotel_date": "25 Jan - 27 Jan",
+            "hotel_rent": "$700/Night",
+            "is_official": true,
+            "hotel_photos": ["hotel_1", "hotel_2", "hotel_3"]
+        },
+        {
+            "id": "5",
+            "user_name": "Alex Norman",
+            "user_photo": "user_1",
+            "user_address": "CA, United States.",
+            "hotel_name": "Brunel's SS Great Britain",
+            "hotel_desc": "Great Western Dockyard, Gas Ferry Rd, Bristol BS1 6TY",
+            "hotel_date": "25 Jan - 27 Jan",
+            "hotel_rent": "$600/Night",
+            "is_official": true,
+            "hotel_photos": ["hotel_2", "hotel_3", "hotel_1"]
+        }
+    ]
+}
